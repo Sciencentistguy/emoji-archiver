@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 reqwest = "0.10.10"
+structopt = "0.3"
 tokio = {version = "0.2", features = ["macros"]}
 
 [dependencies.serenity]
