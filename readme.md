@@ -1,5 +1,11 @@
 # emoji-archiver
 
+## Deprecated
+The functionality of this bot has been merged into [discord-channel-archiver](https://github.com/Sciencentistguy/discord-channel-archiver),
+and therefore this bot is deprecated and unmaintained.
+
+---
+
 A small discord bot to archive the emojis from a server
 
 ## Usage
